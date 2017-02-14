@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9C5F5326-9E36-DF9E-19C0-80AC37015EBE}") = "Isometric 3D Survival", "Assembly-CSharp.csproj", "{0F13FE73-A9CC-F7F5-76F9-DD8C948A760D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F13FE73-A9CC-F7F5-76F9-DD8C948A760D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F13FE73-A9CC-F7F5-76F9-DD8C948A760D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F13FE73-A9CC-F7F5-76F9-DD8C948A760D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F13FE73-A9CC-F7F5-76F9-DD8C948A760D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
