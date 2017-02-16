@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B55F70BB-9B72-8289-A7D7-D0D9BBCCA7D7}") = "Isometric-3D-Survival-765273b895f6fafabebef082e32536e4079f1df5", "Assembly-CSharp.csproj", "{74C2A7C2-7EFC-F78F-843B-A72078F6F257}"
+EndProject
+Project("{B55F70BB-9B72-8289-A7D7-D0D9BBCCA7D7}") = "Isometric-3D-Survival-765273b895f6fafabebef082e32536e4079f1df5", "Assembly-CSharp-Editor.csproj", "{7CDC2775-1160-CDE5-CB79-ECE6309CD0C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74C2A7C2-7EFC-F78F-843B-A72078F6F257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C2A7C2-7EFC-F78F-843B-A72078F6F257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C2A7C2-7EFC-F78F-843B-A72078F6F257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C2A7C2-7EFC-F78F-843B-A72078F6F257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CDC2775-1160-CDE5-CB79-ECE6309CD0C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDC2775-1160-CDE5-CB79-ECE6309CD0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDC2775-1160-CDE5-CB79-ECE6309CD0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDC2775-1160-CDE5-CB79-ECE6309CD0C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
